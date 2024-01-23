@@ -1,0 +1,85 @@
+{
+  "userdata": [
+    {
+      "id": 1,
+      "fname": "json-server",
+      "lname": "typicode",
+      "phone": "4.131131",
+      "pass": "123"
+    },
+    {
+      "fname": "yash",
+      "lanme": "bheda",
+      "Phone": "4634843",
+      "email": "hkjgvjbk",
+      "pass": "123",
+      "id": 2
+    },
+    {
+      "email": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "id": 6
+    },
+    {
+      "email": "",
+      "id": 7
+    },
+    {
+      "fname": "yash ",
+      "lanme": "bheda",
+      "Phone": "9727090574",
+      "email": "yashbheda6313@gmail.com",
+      "pass": "123",
+      "id": 8
+    },
+    {
+      "fname": "",
+      "lanme": "",
+      "email": "",
+      "pass": "",
+      "id": 9
+    },
+    {
+      "fname": "",
+      "lanme": "",
+      "email": "",
+      "pass": "",
+      "id": 10
+    },
+    {
+      "fname": "yash",
+      "lanme": "yashq",
+      "Phone": "12313",
+      "email": "fsvsa",
+      "pass": "32133",
+      "id": 11
+    },
+    {
+      "fname": "yash",
+      "lanme": "yashq",
+      "Phone": "12313",
+      "email": "fsvsa",
+      "pass": "32133",
+      "id": 12
+    },
+    {
+      "fname": "yash",
+      "lanme": "bheda",
+      "Phone": "9727090574",
+      "email": "yashbheda6313@gmail.com",
+      "pass": "123",
+      "id": 13
+    }
+  ]
+}

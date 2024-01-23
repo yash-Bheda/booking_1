@@ -1,0 +1,155 @@
+[
+    {
+        "id":1,
+        "src":"/image/manchau.jpg",
+        "name":"Manchow soup",
+        "price":"120",
+        "btn":"Order Now",
+        "category":"soup"
+    },
+    {
+        "id":2,
+        "src":"/image/tomatosoup.jpg",
+        "name":"Tomato soup",
+        "price":"90",
+        "btn":"Order Now",
+        "category":"soup"
+    },
+
+    {
+        "id":3,
+        "src":"/image/vegsoup.jpg",
+        "name":"Vegetable soup ",
+        "price":"130",
+        "btn":"Order Now",
+        "category":"soup"
+    },
+
+    {
+        "id":4,
+        "src":"/image/manchuriyan.jpg",
+        "name":"Manchurian ",
+        "price":"110",
+        "btn":"Order Now",
+        "category":"stater"
+    },
+    {
+        "id":5,
+        "src":"/image/kabab.jpg",
+        "name":"Hara Bhara Kabab ",
+        "price":"140",
+        "btn":"Order Now",
+        "category":"stater"
+    },
+    {
+        "id":6,
+        "src":"/image/shahipaneer.jpg",
+        "name":" Shahi paneer",
+        "price":"180",
+        "btn":"Order Now",
+        "category":"stater"
+    },
+    {
+        "id":7,
+        "src":"/image/pannerangara.jpg",
+        "name":"  Paneer Angara ",
+        "price":"190",
+        "btn":"Order Now",
+        "category":"lunch"
+    },
+    {
+        "id":8,
+        "src":"/image/masalapapad.jpg",
+        "name":"  Masala Papad ",
+        "price":"40",
+        "btn":"Order Now",
+        "category":"stater"
+    },
+    {
+        "id":9,
+        "src":"/image/chas.jpg",
+        "name":"  chas ",
+        "price":"20",
+        "btn":"Order Now",
+        "category":"stater"
+    },
+    {
+        "id":10,
+        "src":"/image/nan.jpg",
+        "name":"  Naan ",
+        "price":"60",
+        "btn":"Order Now",
+        "category":"lunch"
+    },
+
+    {
+        "id":11,
+        "src":"/image/plainroti.jpg",
+        "name":"  plain roti ",
+        "price":"15",
+        "btn":"Order Now",
+        "category":"lunch"
+    },
+    {
+        "id":12,
+        "src":"/image/daltadka.jpg",
+        "name":"  Daltadka ",
+        "price":"80",
+        "btn":"Order Now",
+        "category":"lunch"
+    },
+    {
+        "id":13,
+        "src":"/image/rice.jpg",
+        "name":"  FryRice ",
+        "price":"80",
+        "btn":"Order Now",
+        "category":"lunch"
+    },
+    {
+        "id":14,
+        "src":"/image/savtameta.jpg",
+        "name":"  Savtameta ",
+        "price":"60",
+        "btn":"Order Now",
+        "category":"dinner"
+    },
+    {
+        "id":15,
+        "src":"/image/mixveg.jpg",
+        "name":"  Mixveg ",
+        "price":"140",
+        "btn":"Order Now",
+        "category":"dinner"
+    },
+    {
+        "id":16,
+        "src":"/image/bhakhari.jpg",
+        "name":"  Bhakhari ",
+        "price":"15",
+        "btn":"Order Now",
+        "category":"dinner"
+    },
+    {
+        "id":17,
+        "src":"/image/rayta.jpg",
+        "name":"  Rayta ",
+        "price":"60",
+        "btn":"Order Now",
+        "category":"dinner"
+    },
+    {
+        "id":18,
+        "src":"/image/kichadikadi.jpg",
+        "name":"  Kichadi Kadi ",
+        "price":"80",
+        "btn":"Order Now",
+        "category":"dinner"
+    }
+
+
+
+    
+
+
+]
